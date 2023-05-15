@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bf696b06-7111-4022-883c-1527979e0d5c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/all.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/logo1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/logo10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/logo11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/logo12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/logo13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/logo14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/logo15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/logo16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/logo17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/logo18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/logo19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/logo2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/logo20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/logo21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/logo22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/logo23.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/logo24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/logo25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/logo26.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/logo27.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/logo28.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/logo29.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/logo3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/logo30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/logo31.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/logo32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/logo33.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/logo34.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/logo35.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/logo36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/logo37.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/logo38.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/logo39.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/logo4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/logo5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/logo6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/logo7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/logo8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/logo9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Pages/About_UsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Pages/Base_Page.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Pages/FindJob_Page.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Pages/LoginRegister_Page.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Pages/PostJob_Page.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Tools/TestRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Tools/WebDriverFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/FunctionalityTesting.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2PhIEyvI07qUTf4TB0CldgDksAy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "/Users/devid/JobCafe_Testing/src/main/resources",
+    "onboarding.tips.debug.path": "/Users/devid/JobCafe_Testing/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/Pages" />
+      <recent name="$PROJECT_DIR$/src/main/java/Tools" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.FunctionalityTesting">
+    <configuration name="FunctionalityTesting" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="selenium" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FunctionalityTesting" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FunctionalityTesting.FindtJobTesting1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="selenium" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FunctionalityTesting" />
+      <option name="METHOD_NAME" value="FindtJobTesting1(java.lang.String)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FunctionalityTesting.FindtJobTesting2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="selenium" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FunctionalityTesting" />
+      <option name="METHOD_NAME" value="FindtJobTesting2(java.lang.String)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FunctionalityTesting.FindtJobTestingReset" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="selenium" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FunctionalityTesting" />
+      <option name="METHOD_NAME" value="FindtJobTestingReset" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FunctionalityTesting.testErrorMessage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="selenium" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FunctionalityTesting" />
+      <option name="METHOD_NAME" value="testErrorMessage(java.lang.String,java.lang.String)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.FunctionalityTesting" />
+        <item itemvalue="JUnit.FunctionalityTesting.FindtJobTesting1" />
+        <item itemvalue="JUnit.FunctionalityTesting.testErrorMessage" />
+        <item itemvalue="JUnit.FunctionalityTesting.FindtJobTesting2" />
+        <item itemvalue="JUnit.FunctionalityTesting.FindtJobTestingReset" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bf696b06-7111-4022-883c-1527979e0d5c" name="Changes" comment="" />
+      <created>1683902778264</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683902778264</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
